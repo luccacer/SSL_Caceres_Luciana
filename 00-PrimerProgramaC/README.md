@@ -1,2 +1,2 @@
 
-Esta carpeta contiene dos archivs, de los cuales uno de ellos imprime la frase "Hola Mundo"
+Esta carpeta contiene dos archivos, de los cuales se imprime la frase "Hola Mundo"
