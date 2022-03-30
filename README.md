@@ -1,2 +1,2 @@
 # SSL_Caceres_Luciana
-Repositorio para la materia Sintaxis y semantica de los Lenguajes
+Este es mi repositorio para la cursada de Sintaxis y Semantica de Lenguajes
