@@ -1,8 +1,7 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int  main()
 {
-  cout<< "Hola Mundo, soy Lu" << endl;
+  printf("Hola Mundo, soy Lu");
   return 0;
 }
